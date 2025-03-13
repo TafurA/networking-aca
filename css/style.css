@@ -348,6 +348,11 @@ nav.main-menu {
   padding-top: 20px;
 }
 
+.about_taital_down {
+  padding-top: 0;
+  margin-bottom: 32px;
+}
+
 .o-btn {
   display: inline-block;
   border-radius: 16px;
@@ -829,7 +834,7 @@ button.main_bt a:hover {
   }
 
   .c-benefits__list {
-    font-size: 24px;
+    font-size: 20px;
     flex: 1 50%;
   }
 
